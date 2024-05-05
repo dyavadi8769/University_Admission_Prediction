@@ -1,4 +1,4 @@
-# University_Admission_Prediction_ML_Regularization_Model
+# University_Admission_Prediction_ML_Regularization
 
 ## Project Overview
 
