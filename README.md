@@ -32,19 +32,28 @@ The University Admission Prediction project is a Flask-based web application des
 6. Model Evaluation: Assessing the model accuracy and performance.
 7. Model Deployment: Deploying the model in a web application.
 
-## Commands Used
+## Commands to Setup Project on Local Machine
 
-To install the dependencies
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/dyavadi8769/University_Admission_Prediction.git
+   cd University_Admission_Prediction
+2. **Create a virtual environment and activate it:**
+    ```bash
+    conda create -p env python==3.10 -y
+    conda activate env/ 
 
-```
-pip install -r requirements.txt
-```
+3. **To install the dependencies:**
 
-To run the Flask Web Application
+   ```
+   pip install -r requirements.txt
+   ```
 
-```
-python app.py
-```
+4.  **To run the Flask Web Application:**
+
+   ```
+   python app.py
+   ```
 
 ## Contributing
 
